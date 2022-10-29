@@ -92,7 +92,7 @@ In this step, you’ll turn items into flex containers and set their flex direct
 
 * Your result should resemble the following image, but it’s OK if it doesn’t:
 
-  ![Your first flex layout solution](images/flex-layout-solution.png)
+  ![flex-layout-solution](https://user-images.githubusercontent.com/56591001/198821738-053af843-d90d-4079-a31d-f01a005c601c.png)
 
 ---
 
